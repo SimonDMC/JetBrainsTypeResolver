@@ -1,4 +1,5 @@
 package api;
 
-public class PhpType {
+public interface PhpType {
+
 }
